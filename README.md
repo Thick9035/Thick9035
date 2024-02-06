@@ -8,7 +8,6 @@ I'm a 15-year-old student at Archbold High School who loves coding and learning 
 
 Here are some facts about me:
 
-- 🔭 I’m currently working on a personal project that uses Python and Flask to create a web app.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript to improve my web development skills.
 - 👯 I’m looking to collaborate on any open source projects that interest me or challenge me.
 - 🤔 I’m looking for help with learning how to use GitHub effectively and efficiently.

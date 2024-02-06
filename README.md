@@ -12,6 +12,6 @@ Here are some facts about me:
 - 🌱 I’m currently learning HTML, CSS, and JavaScript to improve my web development skills.
 - 👯 I’m looking to collaborate on any open source projects that interest me or challenge me.
 - 🤔 I’m looking for help with learning how to use GitHub effectively and efficiently.
-- 📫 How to reach me: You can email me at johnohio38@gmail.com or follow me on Twitter @Thick9035.
+- 📫 How to reach me: You can email me at johnohio38@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play guitar and piano in my spare time. 🎸🎹
